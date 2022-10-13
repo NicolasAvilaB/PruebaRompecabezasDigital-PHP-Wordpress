@@ -17,4 +17,5 @@ Arrays PHP implementado y desarrollado en la url: https://manqueinventa.cf/parti
 - Usuario: **nicolas_partial**
 - Clave: **partial**
 
+PDF recibido - prueba técnica
 [Prueba tecnica (1).pdf](https://github.com/NicolasAvilaB/PruebaRompecabezasDigital-PHP-Wordpress/files/9777675/Prueba.tecnica.1.pdf)
