@@ -10,6 +10,7 @@ Arrays PHP implementado y desarrollado en la url: https://manqueinventa.cf/parti
 - PHP con arrays y conexión a base de datos creado en archivo: **partialdealers.php**
 - Base de datos en MySQL exportada en Phpmyadmin en archivo: **nicolas_partial.sql**
 - Procedimiento de Almacenado utilizado
+- Uso de plúgin Elementor
 
 ## Descripción de Base de Datos
 - Nombre Base de Datos: **nicolas_partial**
