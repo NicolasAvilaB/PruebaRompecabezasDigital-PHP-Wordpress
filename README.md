@@ -1,4 +1,4 @@
-# Prueba de Rompecabezas Digital - PHP y Wordpress
+# Prueba Backend Review - PHP y Wordpress
 
 Versión usada de Wordpress 6.0.2, PHP 7.2.34 y servidor hosting CentOS 7.
 
